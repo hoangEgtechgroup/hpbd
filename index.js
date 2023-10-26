@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chào bé Thu. Please hãy xem một cách từ tốn." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chào bé Thu. Please hãy xem một cách từ tốn. Không có nhạc hãy bật nhạc lên cho có không khí nhé :))" //Lời mở đầu cho bức thư
 const mainContentLetter = "Bé Thu sinh nhật vui vẻ. Chúc bé luôn thành công trong công việc và học tập của mình. HAPPY BIRTHDAY BÉ THU !!!!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
