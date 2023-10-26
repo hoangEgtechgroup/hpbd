@@ -23,7 +23,7 @@ body {
 
 .startLetter {
     position: absolute;
-    top: 0px;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -90%);
     background-color: white;
@@ -190,7 +190,7 @@ body {
     width: 100px;
     height: 100px;
     content: "";
-    bottom: 0;
+    bottom: 120px;
     left: 0;
     clip-path: polygon(0 40%, 50% 0, 100% 40%, 100% 100%, 0 100%);
 }
@@ -227,7 +227,7 @@ body {
 
 .designBox {
     position: absolute;
-    bottom: 0;
+    bottom: 120px;
     left: 0;
     width: 100%;
     height: 60px;
@@ -346,8 +346,7 @@ body {
   
     .bannerParty {
         position: absolute;
-        top: 100px;
-        width: 100%;
+        width: 80%;
         max-width: 100%;
         left: 50%;
         transform: translate(-50%, 0);
@@ -355,7 +354,7 @@ body {
     }
 
     .balloon {
-        bottom: 100px;
+        bottom: 120px;
         width: 100px;
     }
 
@@ -370,7 +369,7 @@ body {
     .content {
         width: 80%;
         left: 50%;
-        bottom: 0;
+        bottom: 120px;
         transform: translate(-50%, 0px);
         height: 80px;
         transition: .5s;
@@ -378,7 +377,7 @@ body {
     }
 
     .content.actived {
-        bottom: 100px;
+        bottom: 300px;
     }
 }
 
