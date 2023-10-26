@@ -17,10 +17,10 @@
 
 <body>
   <div class="startForm">
-    <audio controls autoplay loop style="display: none;">
-      <source src="mp3/a.mp3">
-    </audio>
     <div class="startLetter">
+      <audio controls autoplay >
+        <source src="./mp3/a.mp3" type="audio/mpeg">
+      </audio>
       <div class="contentLetter"></div>
       <img class="myAI" src="" alt="">
       <div class="sticker"></div>
@@ -47,7 +47,7 @@
   <script>
     // Lấy đối tượng âm thanh từ mã HTML
     var audio = document.querySelector('audio');
-  
+
     // Đặt âm lượng của đối tượng âm thanh thành 50%
     audio.volume = 0.07;
   </script>

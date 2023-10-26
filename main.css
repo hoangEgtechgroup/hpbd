@@ -176,7 +176,7 @@ body {
 
 .letterForm {
     position: absolute;
-    top: 90%;
+    top: 77%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100px;
@@ -190,7 +190,7 @@ body {
     width: 100px;
     height: 100px;
     content: "";
-    bottom: 120px;
+    bottom: 0px;
     left: 0;
     clip-path: polygon(0 40%, 50% 0, 100% 40%, 100% 100%, 0 100%);
 }
@@ -227,7 +227,7 @@ body {
 
 .designBox {
     position: absolute;
-    bottom: 120px;
+    bottom: 0px;
     left: 0;
     width: 100%;
     height: 60px;
@@ -369,7 +369,7 @@ body {
     .content {
         width: 80%;
         left: 50%;
-        bottom: 120px;
+        bottom: 0px;
         transform: translate(-50%, 0px);
         height: 80px;
         transition: .5s;
