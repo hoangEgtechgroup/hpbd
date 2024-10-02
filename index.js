@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "💌 Chào Em yêu của anh. Please hãy xem một cách từ tốn. Không có nhạc hãy bật nhạc lên cho có không khí nhé 🫶" //Lời mở đầu cho bức thư
-const mainContentLetter = "❤️ Anh rất vui khi có em trong cuộc đời của anh. Cảm ơn em vì tất cả những điều tuyệt vời em đã làm cho anh. Có thể ngày này mang lại cho em rất nhiều niềm vui và hạnh phúc bởi vì em xứng đáng với tất cả điều này! Chúc mừng sinh nhật tình yêu của anh!!!git  ❤️" //Nội dung của bức thư
+const mainContentLetter = "❤️ Anh rất vui khi có em trong cuộc đời của anh. Cảm ơn em vì tất cả những điều tuyệt vời em đã làm cho anh. Có thể ngày này mang lại cho em rất nhiều niềm vui và hạnh phúc bởi vì em xứng đáng với tất cả điều này! Chúc mừng sinh nhật tình yêu của anh ❤️" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
